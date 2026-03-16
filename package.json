@@ -1,7 +1,7 @@
 {
   "name": "@agentine/beacon",
   "version": "0.1.0",
-  "description": "Drop-in replacement for debug — namespace-based debug logging for Node.js and browsers",
+  "description": "Drop-in replacement for debug \u2014 namespace-based debug logging for Node.js and browsers",
   "repository": {
     "type": "git",
     "url": "https://github.com/agentine/beacon.git"
